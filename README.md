@@ -1,0 +1,2 @@
+# BazarNG
+ZeroNights HackQuest task
