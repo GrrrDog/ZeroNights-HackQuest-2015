@@ -13,7 +13,7 @@ You can use BazarNG as a laboratory for testing the exploitation of these vulns.
   sudo apt-get install tomcat7 openjdk-7-jdk mysql-server
 - put context.xml to /var/lib/tomcat7/conf
 - download last mysql-jdbc-connector (https://dev.mysql.com/downloads/connector/j/) and put it to /usr/share/tomcat7/lib/
-- put ZN_HQ to /var/lib/tomcat7/webapps/
+- put ZN_HQ.war to /var/lib/tomcat7/webapps/
 - login to the mysql as root:
 ```
   mysql -u root -p
