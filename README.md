@@ -1,4 +1,4 @@
-# BazarNG
+# BazaarNG
 ZeroNights HackQuest 3rd task: http://hackquest.zeronights.org/#day3 
 
 It contains several typical vulnerabilities:
