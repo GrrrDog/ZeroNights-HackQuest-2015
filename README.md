@@ -1,5 +1,5 @@
 # BazaarNG
-ZeroNights HackQuest 3rd task: http://hackquest.zeronights.org/#day3 
+ZeroNights HackQuest 2015. The 3rd task: http://hackquest.zeronights.org/
 
 It contains several typical vulnerabilities:
 - Execution after redirect
